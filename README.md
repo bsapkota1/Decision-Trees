@@ -1,4 +1,4 @@
-#Decision Trees: Basic Machine Learning 
+#Decision Trees
 
 This project focuses on decision trees and starts with the titanic data set. 
 First, separates the data into training and test sets. The test set is 20% of the total data. 
