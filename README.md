@@ -1,6 +1,6 @@
 #Decision Trees: Basic Machine Learning 
 
-This project focuses on decision trees and starts with the titanic data set. \n
+This project focuses on decision trees and starts with the titanic data set. 
 First, separates the data into training and test sets. The test set is 20% of the total data. 
 Second, builds a decision tree based on the training data. The defaults for building a tree are fine (gini impurity). 
 Third, produces a confusion matrix from the trees predictions on the test data. From the matrix it calculates performance measures from the confusion matrix, especially f1 score. 
